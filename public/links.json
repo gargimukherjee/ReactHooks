@@ -1,0 +1,8 @@
+{"books": [
+    {"id": 1234, "name": "Gone with the Wind", "author": "Margaret Mitchell", "publication": "ABCD Publications"},
+    {"id": 5678, "name": "Rage of the Angels", "author": "Sidney Sheldon", "publication": "XYZA Publications"},
+    {"id": 9123, "name": "Adventures of Feluda", "author": "Satyajit Ray", "publication": "LKJH Publications"}
+
+    
+  ]
+}
